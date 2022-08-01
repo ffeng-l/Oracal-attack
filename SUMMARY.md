@@ -9,7 +9,6 @@
 
 ## blocksec
 
-* [Nerve Bridge（2021.11.5）](blocksec/nerve-bridge-2021.11.5.md)
 * [Impossible Finance（2021.10.5）](blocksec/impossible-finance-2021.10.5.md)
 
 ## slowmist
